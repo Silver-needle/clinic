@@ -423,7 +423,7 @@ button {
   padding-top: 15px;
 }
 
-@media only screen and (max-device-width: 375px) {
+@media only screen and (max-device-width: 480px) {
   .map-marker {
     display: none;
   }
