@@ -418,11 +418,12 @@ button {
       left: 0;
    }
 
-   a.active, a:hover {
+   a.active,
+   a:hover {
       border: 1px solid white;
       padding: 5px 10px;
       border-radius: 25px;
-      transition: .5s;
+      transition: 0.5s;
    }
 
    .menu-btn {
